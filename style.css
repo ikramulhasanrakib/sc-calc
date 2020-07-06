@@ -9,7 +9,15 @@ font-family:times;
 fomt-weight:bold;
 font-size:74px;
 }
-
+a{
+font-family:times;
+text-decoration:none;
+color:#2ecc71;
+font-size:30px;
+padding:30px;
+padding-top:10px;
+font-weight:bold;
+}
 p{
 font-family:times;
 fomt-weight:bold;
