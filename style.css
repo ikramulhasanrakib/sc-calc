@@ -1,0 +1,62 @@
+
+*{
+margin:0 ;
+padding:0 ;
+}
+
+h1{text-align: center; 
+font-family:times;
+fomt-weight:bold;
+font-size:74px;
+}
+
+p{
+font-family:times;
+fomt-weight:bold;
+font-size:45px;
+}
+
+.card{
+text-align:center ;
+font-size:0;
+margin:0 auto;
+max-width:940px ;
+box-shadow:0 4px 8px 0 rgba(0,0,0,.2);
+padding:70px 0 80px 0;
+}
+.card:hover{
+box-shadow:0 16px 32px 0 rgba(0,0,0,.3);
+transition:.1s}
+
+.btn{
+width:167px ;
+height:120px ;
+font-size:40px;
+font-weight:bold;
+background-color:black;
+color:white;
+font-family:times;
+border-radius:15px;
+border:3px solid lightblue;
+}
+
+.btn:hover{
+background-color:lightyellow;
+color:green;
+}
+
+.display{
+width:803px;
+height:270px ;
+font-size:60px;
+letter-spacing:1px ;
+font-weight:bold;
+text-align:right ;
+padding:0 10px;
+background-color:rgba(100,150,200,.2);
+border-radius:15px;
+border:7px solid black;
+border-bottom:none;
+}
+
+
